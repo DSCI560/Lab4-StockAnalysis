@@ -12,9 +12,8 @@
 1. [Overview](#overview)
 2. [System Requirements](#system-requirements)
 3. [Project Structure](#project-structure)
-6. [Implemented Algorithms](#implemented-algorithms)
-7. [Performance Metrics](#performance-metrics)
-9. [Trade-Level Metrics](#Trade-Level Metrics)
+4. [Implemented Algorithms](#implemented-algorithms)
+5. [Performance Metrics](#performance-metrics)
 
 ---
 
