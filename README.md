@@ -14,7 +14,7 @@
 3. [Project Structure](#project-structure)
 6. [Implemented Algorithms](#implemented-algorithms)
 7. [Performance Metrics](#performance-metrics)
-9. [Results](#results)
+9. [Trade-Level Metrics](#Trade-Level Metrics)
 
 ---
 
