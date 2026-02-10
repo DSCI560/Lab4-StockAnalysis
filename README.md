@@ -38,10 +38,10 @@ The system is designed to determine which trading strategy yields the highest pr
 
 ### Required Python Libraries:
 ```
-numpy >= 1.19.0
-pandas >= 1.1.0
-matplotlib >= 3.3.0
-yfinance >= 0.1.63 (optional, falls back to synthetic data)
+numpy
+pandas
+matplotlib
+yfinance
 ```
 
 ---
@@ -52,7 +52,7 @@ pip install -r requirements.txt
 
 ### Step 4: Verify Installation
 ```bash
-python -c "import numpy, pandas, matplotlib; print('All libraries installed successfully')"
+python -c "import numpy, pandas, matplotlib"
 ```
 
 
